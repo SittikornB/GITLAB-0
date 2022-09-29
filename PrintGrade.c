@@ -34,4 +34,3 @@ void main()
   }
   printf("Bye Bye\n"); 
 }
-#หิวข้าว
