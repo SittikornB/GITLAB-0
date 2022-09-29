@@ -14,6 +14,7 @@ void main()
   printf("-------------------------------------\n");
   printf("Enter Student ID to Search (0 to End): "); 
   scanf("%d", &SearchID); 
+  while (SearchID)
   {
       found_index = -1; 
       for (i = 0; i<N && found_index == -1; i++)
